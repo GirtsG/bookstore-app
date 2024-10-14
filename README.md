@@ -48,7 +48,7 @@ The **Bookstore.com Web Application** is composed of three main components: the 
 1. Clone the repository:
    `git clone https://github.com/GirtsG/bookstore-app.git`
    
-2. Navigate to the project directory
+2. Navigate to the project directory `bookstore-app`
    
 3. Run the Spring Boot backend:
    `./mvnw spring-boot:run`
@@ -58,7 +58,7 @@ The backend should now be running at `http://localhost:8080`.
 
 ## 2.3 Frontend Setup
 
-1. Navigate to the frontend directory `bookstore-frontend`
+1. Inside project directory navigate to the frontend directory `bookstore-frontend`
    
 2. Install dependencies:
    `npm install`
