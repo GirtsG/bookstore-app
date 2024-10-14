@@ -1,5 +1,3 @@
- HELP.md
-
 # Bookstore.com Web Application
 
 ## Overview
